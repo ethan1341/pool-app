@@ -1,1 +1,1 @@
-var app = angular.module('ng-pool',[]);
+var app = angular.module('ng-pool', []);
